@@ -6,6 +6,6 @@
 
 for testing; 
 
-  after the compiling each c files, __
+  after the compiling each c files,
 
-  run **"./czmq_start.sh"**__
+  run **"./czmq_start.sh"**
