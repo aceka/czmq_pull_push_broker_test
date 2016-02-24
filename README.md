@@ -6,5 +6,6 @@
 
 for testing; 
 
-  1- after the compiling each c files,
-  2- run **'czmq_start.sh'**
+  after the compiling each c files,
+
+  run **'czmq_start.sh'**
