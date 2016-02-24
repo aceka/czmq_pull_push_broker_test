@@ -8,4 +8,4 @@ for testing;
 
   after the compiling each c files,
 
-  run **"./czmq_start.sh"**
+  run **"czmq_start.sh"**
